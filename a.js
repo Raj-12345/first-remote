@@ -1,8 +1,7 @@
-var a=30;
-var b=50;
-console.log(a);
-console.log(b);
-function call(){
+function callMe(){
     console.log();
 }
-call();
+callMe();
+console.log("hello");
+
+
